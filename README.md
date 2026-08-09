@@ -96,3 +96,9 @@ Mempelajari dasar Neural Network menggunakan dataset non-linear serta melakukan 
 ├── Pertemuan11_AbdulZakiA_240401010042.ipynb
 ├── Pertemuan12_AbdulZakiA_240401010042.ipynb
 └── Pertemuan13_AbdulZakiA_240401010042.ipynb
+
+
+# Kesimpulan
+Melalui praktikum Data Science dari Pertemuan 1 sampai Pertemuan 13, saya mempelajari proses pengolahan dan analisis data secara bertahap. Mulai dari memahami data, melakukan data cleaning, analisis statistik, visualisasi, data preparation, hingga membangun berbagai model machine learning.
+Selain Regresi Linear, saya juga mempelajari klasifikasi menggunakan Logistic Regression, Decision Tree, dan Random Forest, kemudian clustering menggunakan K-Means dan Hierarchical Clustering. Saya juga mempelajari Association Rule dengan Apriori, sistem rekomendasi, serta dasar Deep Learning dan NLP menggunakan Neural Network, TF-IDF, dan Logistic Regression.
+Dari seluruh praktikum ini, saya semakin memahami bahwa proses Data Science tidak hanya tentang membuat model, tetapi juga membutuhkan data yang baik, pemilihan metode yang sesuai, evaluasi hasil, dan interpretasi terhadap hasil yang diperoleh.
